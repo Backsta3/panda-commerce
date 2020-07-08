@@ -31,3 +31,18 @@
 .res2{
     margin-left: 65px;
 }
+
+.bl-color{
+    background-color: rgb(40, 6, 73);
+    padding-top: 100px;
+    height: 700px;
+    color: white;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+.mar{
+    padding-right: 100px;
+}
