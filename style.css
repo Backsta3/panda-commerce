@@ -1,0 +1,33 @@
+.container{
+    margin-bottom: 100px;
+}
+.orange-bg{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.bg-color{
+    background-color: #fceae8;
+}
+.modify{
+    margin: 0px 70px;
+}
+.size{
+    width: 50px;
+    padding-top: 20px;
+}
+.card{
+    
+}
+.card-footer{
+    border: none;
+    background-color: white;
+}
+.img2{
+    width: 20px;
+}
+.res2{
+    margin-left: 65px;
+}
