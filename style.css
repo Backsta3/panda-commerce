@@ -46,3 +46,15 @@
 .mar{
     padding-right: 100px;
 }
+.size{
+    width: 50px;
+    padding-top: 20px;
+}
+.card-2{
+    box-shadow: 3px 8px 15px rgb(194, 173, 173);
+    border-bottom-right-radius: 15px;
+    border-top-left-radius: 15px;
+    border: 1px rgb(238, 227, 227) solid;
+    cursor: pointer;
+    padding: 20px;
+}
