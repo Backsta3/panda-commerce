@@ -31,3 +31,30 @@
 .res2{
     margin-left: 65px;
 }
+
+.bl-color{
+    background-color: rgb(40, 6, 73);
+    padding-top: 100px;
+    height: 700px;
+    color: white;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+.mar{
+    padding-right: 100px;
+}
+.size{
+    width: 50px;
+    padding-top: 20px;
+}
+.card-2{
+    box-shadow: 3px 8px 15px rgb(194, 173, 173);
+    border-bottom-right-radius: 15px;
+    border-top-left-radius: 15px;
+    border: 1px rgb(238, 227, 227) solid;
+    cursor: pointer;
+    padding: 20px;
+}
